@@ -167,8 +167,12 @@ body{
     color: #8f8f8f;
     text-decoration: none;
 }
-.box form .links a:hover,
+/* .box form .links a:hover,
 .box form .links a:nth-child(2)
+{
+    color: #fff;
+} */
+.box form .links a:hover
 {
     color: #fff;
 }
